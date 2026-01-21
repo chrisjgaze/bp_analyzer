@@ -1,0 +1,78 @@
+################################
+# Databases & generated data
+################################
+*.db
+*.sqlite
+*.sqlite3
+*.jsonl
+*.log
+
+################################
+# Python
+################################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+env/
+
+################################
+# Node / JS
+################################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+################################
+# Environment & secrets
+################################
+.env
+.env.*
+*.key
+*.pem
+*.crt
+secrets/
+credentials/
+
+################################
+# OS / Editor junk
+################################
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+################################
+# VS Code
+################################
+.vscode/
+!.vscode/extensions.json
+
+################################
+# Jupyter / notebooks
+################################
+.ipynb_checkpoints/
+
+################################
+# Test / coverage
+################################
+.coverage
+htmlcov/
+.pytest_cache/
+
+################################
+# Build / export outputs
+################################
+*.pdf
+*.zip
+*.tar.gz
+reports/
+output/
+cache/

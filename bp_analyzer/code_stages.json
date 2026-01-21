@@ -1,0 +1,13 @@
+{
+  "object_name": "My Object",
+  "page_name": "Main Page",
+  "stage_name": "Calculate Value",
+  "language": "C#",
+  "sha256": "…",
+  "code": "formatted code here",
+  "findings": {
+    "has_sql_keywords": true,
+    "has_http": false,
+    "urls": []
+  }
+}
